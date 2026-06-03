@@ -1,0 +1,6 @@
+.venv128/
+.vscode/
+.vscode-old/
+__pycache__/
+*.pyc
+desktop.ini
